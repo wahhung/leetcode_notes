@@ -7,6 +7,15 @@
 [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs)
 - [source code](./2021-03-03/code70/climbStairs.go)
 
+[120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle)
+- [source code](./2021-03-01/code120/mini_mum_total.go)
+
+[300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+- [source code](./2021-03-02/code300/lengthOfLIS.go)
+
+[746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
+- [source code](./2021-03-03/code746/minCostClimbingStairs.go)
+
 ## 链表
 
 [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)
