@@ -38,7 +38,7 @@ func reverseKGroup(head *ListNode, k int) *ListNode {
 
 // Time: O(n)
 // Space: O(1)
-func reverse(head *ListNode) *ListNode {
+func reverse(head *ListNode) {
 	var prev, next *ListNode
 	for head != nil {
 		// 将当前结点的下一个结点保存起来, 并将Next指针指向 prev
@@ -46,5 +46,4 @@ func reverse(head *ListNode) *ListNode {
 		// 指向下移
 		prev, head = head, next
 	}
-	return prev
 }
