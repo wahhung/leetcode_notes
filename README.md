@@ -44,6 +44,12 @@
 [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 - [source code](./2021-03-10/code102/levelOrder.go)
 
+## 数组
+
+[443. 压缩字符串](https://leetcode-cn.com/problems/string-compression/)
+- [sorce code](./2021-03-11/code443/compress.go)
+
+
 ## 其他
 
 [470. 用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7)
