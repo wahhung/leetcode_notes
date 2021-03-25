@@ -37,13 +37,13 @@
 - [source code](./2021-03-08/code141/hasCycle.go)
 
 [剑指 Offer 24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof)
-- [sorce code](./2021-03-09/offer24/reverseList.go)
+- [source code](./2021-03-09/offer24/reverseList.go)
 
 [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)
-- [sorce code](./2021-03-09/code25/reverseKGroup.go)
+- [source code](./2021-03-09/code25/reverseKGroup.go)
 
 [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list)
-- [sorce code](./2021-03-09/code876/middleNode.go)
+- [source code](./2021-03-09/code876/middleNode.go)
 
 [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
 - [source code](./2021-03-10/code92/reverseBetween.go)
