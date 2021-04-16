@@ -100,7 +100,10 @@
 - [source code](./2021-04-14/code232/MyQueue.go)
 
 [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
-- [source code](.//2021-04-01/code33/search.go)
+- [source code](./2021-04-01/code33/search.go)
+
+[169. 多数元素](https://leetcode-cn.com/problems/majority-element/)
+- [source code](./2021-04-17/code169/majorityElement.go)
 
 
 ## 其他
